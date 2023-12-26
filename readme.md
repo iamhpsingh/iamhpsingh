@@ -24,7 +24,7 @@
 
 ## Learning From
 
-![My Labtop](https://img.shields.io/badge/macbook%20Air-b2b5b8?style=for-the-badge&logo=hp&logoColor=blue)
+![My Labtop](https://img.shields.io/badge/OMEN-b2b5b8?style=for-the-badge&logo=hp&logoColor=blue)
 ![Browser](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 <br/>
